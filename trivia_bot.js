@@ -16,7 +16,7 @@ const {
 } = require("discord.js");
 
 // ─── CONFIG ─────────────────────────────────────────────────
-const BOT_TOKEN   = "YOUR_BOT_TOKEN_HERE";
+const BOT_TOKEN   = "MTQ3NTYxNzEyMjk3MjQ3MTU3OA.GkBGzg.1_X0E99Okjeq5vhuw29iv7YY_eqWCfR1qvisv0";
 const ROLE_ID     = "1475557966026641642"; // VideoManic role
 const QUESTIONS_PER_GAME = 3;
 const COOLDOWN_MS = 60_000; // 1 minute
